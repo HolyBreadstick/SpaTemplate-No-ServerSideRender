@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace SpaTemplate_No_ServerSideRender
+namespace Angular2
 {
     public class Program
     {

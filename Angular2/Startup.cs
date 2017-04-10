@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace SpaTemplate_No_ServerSideRender
+namespace Angular2
 {
     public class Startup
     {
