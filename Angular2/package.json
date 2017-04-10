@@ -1,5 +1,5 @@
 {
-  "name": "SpaTemplate_No_ServerSideRender",
+  "name": "Angular2",
   "version": "0.0.0",
   "scripts": {
     "test": "karma start ClientApp/test/karma.conf.js"
