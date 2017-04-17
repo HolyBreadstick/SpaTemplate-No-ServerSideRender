@@ -1,7 +1,7 @@
 # SpaTemplate-No-ServerSideRender
 A clone of the Microsoft Angular 2 SpaTemplate, without the Server Side Rendering, so that outside libraries which needs DOM access can be used.
 
-###Goals
+## Goals
 To include outisde liberies such as Angular Material.
 
 ### Link to getting the original SpaTemplates
